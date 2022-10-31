@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch min_mix_array",
+            "request": "launch",
+            "mainClass": "arrayDSA.min_mix_array",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch linear",
+            "request": "launch",
+            "mainClass": "arrayDSA.linear",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch graph_implemantaion",
+            "request": "launch",
+            "mainClass": "graph.graph_implemantaion",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "Exception_handling_array.array",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch excepton_mothod",
+            "request": "launch",
+            "mainClass": "Exception_handling_array.excepton_mothod",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraycopy",
+            "request": "launch",
+            "mainClass": "arrayDSA.arraycopy",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayinsret",
+            "request": "launch",
+            "mainClass": "arrayDSA.arrayinsret",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "arrayDSA.first",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion",
+            "request": "launch",
+            "mainClass": "arrayDSA.insertion",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionmethodsecond",
+            "request": "launch",
+            "mainClass": "arrayDSA.insertionmethodsecond",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch queue_in_array",
+            "request": "launch",
+            "mainClass": "arrayDSA.queue_in_array",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch second",
+            "request": "launch",
+            "mainClass": "arrayDSA.second",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack_in_array",
+            "request": "launch",
+            "mainClass": "arrayDSA.stack_in_array",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "arrayDSA.twosum",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "chandan.hello",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteion",
+            "request": "launch",
+            "mainClass": "doubly.deleteion",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch traverse",
+            "request": "launch",
+            "mainClass": "doubly.traverse",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_framwork",
+            "request": "launch",
+            "mainClass": "framework.array_framwork",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch circle_delele",
+            "request": "launch",
+            "mainClass": "singly.circle_delele",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch circle_list",
+            "request": "launch",
+            "mainClass": "singly.circle_list",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch delete_pos",
+            "request": "launch",
+            "mainClass": "singly.delete_pos",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch singly",
+            "request": "launch",
+            "mainClass": "singly.singly",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstthread",
+            "request": "launch",
+            "mainClass": "thread2.firstthread",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch thread_get_set",
+            "request": "launch",
+            "mainClass": "thread2.thread_get_set",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch first_thread",
+            "request": "launch",
+            "mainClass": "thread_lession.first_thread",
+            "projectName": "java2_learning_1a67323b"
+        }
+    ]
+}
