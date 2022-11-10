@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mountain_peak_element",
+            "request": "launch",
+            "mainClass": "mountain_peak_element",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch peaknumber",
+            "request": "launch",
+            "mainClass": "arrayDSA.peaknumber",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch infinitearray",
+            "request": "launch",
+            "mainClass": "arrayDSA.infinitearray",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch findposition_start_end",
+            "request": "launch",
+            "mainClass": "arrayDSA.findposition_start_end",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch less_or_equal",
+            "request": "launch",
+            "mainClass": "arrayDSA.less_or_equal",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ceiling_binarysearch",
+            "request": "launch",
+            "mainClass": "arrayDSA.ceiling_binarysearch",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch second_mix",
+            "request": "launch",
+            "mainClass": "arrayDSA.second_mix",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch binearysearch2",
+            "request": "launch",
+            "mainClass": "arrayDSA.binearysearch2",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch binearlysearch",
+            "request": "launch",
+            "mainClass": "arrayDSA.binearlysearch",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch short1",
+            "request": "launch",
+            "mainClass": "arrayDSA.short1",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
             "name": "Launch min_mix_array",
             "request": "launch",
             "mainClass": "arrayDSA.min_mix_array",
