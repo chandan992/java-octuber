@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "arrayDSA.Solution",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch find_dublicate_missing_number",
+            "request": "launch",
+            "mainClass": "arrayDSA.find_dublicate_missing_number",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch find_same_int_array_using_cycle",
+            "request": "launch",
+            "mainClass": "arrayDSA.find_same_int_array_using_cycle",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycle_missing_number",
+            "request": "launch",
+            "mainClass": "arrayDSA.cycle_missing_number",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch cyclesort_corractindex",
+            "request": "launch",
+            "mainClass": "arrayDSA.cyclesort_corractindex",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionsort",
+            "request": "launch",
+            "mainClass": "arrayDSA.insertionsort",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort2Darray",
+            "request": "launch",
+            "mainClass": "arrayDSA.sort2Darray",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch avrage_in_steam",
+            "request": "launch",
+            "mainClass": "arrayDSA.avrage_in_steam",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotated_binary_search",
+            "request": "launch",
+            "mainClass": "arrayDSA.rotated_binary_search",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch competethe_skill",
+            "request": "launch",
+            "mainClass": "arrayDSA.competethe_skill",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch peaknumber2",
+            "request": "launch",
+            "mainClass": "arrayDSA.peaknumber2",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
             "name": "Launch mountain_peak_element",
             "request": "launch",
             "mainClass": "mountain_peak_element",
