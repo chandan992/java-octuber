@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch numberPatren",
+            "request": "launch",
+            "mainClass": "chandan.numberPatren",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion",
+            "request": "launch",
+            "mainClass": "thread_lession.recursion",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch patten",
+            "request": "launch",
+            "mainClass": "chandan.patten",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ispalindrom",
+            "request": "launch",
+            "mainClass": "string.ispalindrom",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch performance",
+            "request": "launch",
+            "mainClass": "string.performance",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pretty_printing",
+            "request": "launch",
+            "mainClass": "string.pretty_printing",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pretty_printing",
+            "request": "launch",
+            "mainClass": "pretty_printing",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch swip_kth_element",
+            "request": "launch",
+            "mainClass": "arrayDSA.swip_kth_element",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Two_sum",
+            "request": "launch",
+            "mainClass": "arrayDSA.Two_sum",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
             "name": "Launch Solution",
             "request": "launch",
             "mainClass": "arrayDSA.Solution",
