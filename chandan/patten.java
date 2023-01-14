@@ -1,10 +1,8 @@
 package chandan;
 
-import doubly.traverse;
-
 public class patten {
     public static void main(String[] args) {
-        firstpatter7();
+        tryangle();
     }
 
 
@@ -29,18 +27,18 @@ public class patten {
 
 
     static void tryangle(){
-        int k;
+        
         for (int i = 1; i<=5; i++){
-            k=1;
+        
             for (int j = 1; j <=9 ; j++) {
             
-                if(j>=6-i && j<=4+i && k==1){
+                if(j>=i && j<=10-i){
             
-                    System.out.print(j);
-                k=0;
+                    System.out.print("*");
+            
                 }else{
                     System.out.print(" ");
-                    k=1;
+                    
                 }
             }
             System.out.println();

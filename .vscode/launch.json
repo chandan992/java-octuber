@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch printing_star_recursion",
+            "request": "launch",
+            "mainClass": "thread_lession.printing_star_recursion",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion_target",
+            "request": "launch",
+            "mainClass": "thread_lession.recursion_target",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch findtarget",
+            "request": "launch",
+            "mainClass": "thread_lession.findtarget",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion2",
+            "request": "launch",
+            "mainClass": "thread_lession.recursion2",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch recurison1",
+            "request": "launch",
+            "mainClass": "thread_lession.recurison1",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
+            "name": "Launch primenumber",
+            "request": "launch",
+            "mainClass": "string.primenumber",
+            "projectName": "java2_learning_1a67323b"
+        },
+        {
+            "type": "java",
             "name": "Launch numberPatren",
             "request": "launch",
             "mainClass": "chandan.numberPatren",
